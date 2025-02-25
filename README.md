@@ -31,7 +31,7 @@ There are several reasons why you might want to use a stateless password manager
 
 * **Security**: By not storing any passwords, this manager eliminates the risk of password databases being compromised or leaked.
 * **Convenience**: With a stateless password manager, you only need to remember a single master password and a few other details (such as your username and account name) to generate unique, secure passwords for each of your accounts.
-* **Flexibility**: This manager can be used on any device, without the need to sync or store any data, making it ideal for use on public computers or other untrusted devices.
+* **Flexibility**: This manager can be used on any device, without the need to sync or store any data.
 * **Compliance**: In some industries or organizations, password managers that store passwords may not be allowed due to security or compliance concerns. A stateless password manager can help meet these requirements.
 
 ## Code Explanation
