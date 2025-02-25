@@ -51,5 +51,8 @@ The `generatePassword` function takes three inputs: `username`, `userpassword`, 
 ## Code
 The code is written in Go and consists of two main functions: `generatePassword` and `main`. The `generatePassword` function generates the password based on the provided input, while the `main` function handles user input and displays the generated password.
 
+## Warning
+USE AT YOUR OWN RISK: We are not responsible for any lost, stolen, or hacked passwords, or any misuse of the software. By using this stateless password manager, you acknowledge that you understand the risks and limitations of the software and release us from any liability. It is your responsibility to use the software in a secure and responsible manner, and to take all necessary precautions to protect your passwords and sensitive information.
+
 ## Customization
 To increase security, you can customize the entropy string by replacing the fixed string `"0"` with a random string of your choice. However, make sure to back up the custom file and keep it confidential to avoid losing access to your generated passwords.
